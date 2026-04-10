@@ -1,5 +1,7 @@
 # Memery
 
+**[Read the full technical specifications →](./technical-specs.md)**
+
 Existing memory systems for LLMs do one of two things: store and search
 (vector DBs, RAG), or summarize and forget (conversation memory). Both lose
 information. The first pulls back too much noise. The second compresses too
